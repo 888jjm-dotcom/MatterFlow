@@ -1,0 +1,44 @@
+Effective Date: 13 February 2026
+
+This Privacy Policy explains the data practices for MatterFlow ("the App"), developed by John James Marshall ("the Developer", "we", "us").
+
+MatterFlow is engineered specifically for legal professionals, accountants, and consultants. We recognise that your fiduciary duties and professional obligations require absolute confidentiality. Therefore, MatterFlow has been built on a strict "privacy-by-design" and zero-data framework.
+
+1. Data Collection & Usage
+We do not collect, harvest, transmit, or monetise your personal or professional data.
+
+When you use MatterFlow, the Developer collects:
+
+Zero telemetry or behavioural tracking data.
+
+Zero diagnostic or crash logs.
+
+Zero client profiles, matter descriptions, time entries, or staging documents.
+
+We do not maintain any proprietary servers, nor do we require you to create an account with us to use the App. Because we do not collect your data, we have no mechanism to view, access, intercept, or share it with any third parties.
+
+2. How Your Data is Stored
+All data inputted into MatterFlow is processed and stored locally on your device's internal storage using Apple’s native secure frameworks.
+
+Apple iCloud & CloudKit Synchronisation
+To allow you to sync your data across your personal devices or share specific client files with your team, MatterFlow utilises Apple’s CloudKit infrastructure.
+
+Private Data: Your individual data is synced exclusively to your private Apple iCloud account.
+
+Shared Data: When you use the "Manage Access" feature to collaborate, that specific data is securely routed through Apple’s encrypted shared iCloud infrastructure to your authorised colleagues.
+
+The Developer has absolutely no access to your iCloud account, your CloudKit containers, or any data transmitted through Apple's servers. For information on how Apple protects your iCloud data, please refer to Apple’s Privacy Policy.
+
+3. Third-Party Services and Analytics
+MatterFlow does not integrate with any third-party analytics software (such as Google Analytics or Flurry), nor does it contain any advertising frameworks. Your professional workspace remains entirely closed and ad-free.
+
+4. Data Export and Portability
+You retain total ownership and control over your data. MatterFlow provides native "Manage Data" tools that allow you to locally export your ledgers as CSV files or generate highly encrypted .mf archives for your own secure offline backups.
+
+5. Changes to this Privacy Policy
+If we make significant changes to the architecture of MatterFlow that affect how data is handled (for example, introducing a new opt-in backup service), we will update this Privacy Policy and clearly notify users within the App release notes. However, our fundamental commitment to zero-data collection and professional confidentiality will not change.
+
+6. Contact Us
+If you have any questions, concerns, or require clarification regarding this Privacy Policy or the security architecture of MatterFlow, please contact us at:
+
+Email: 888jjm+MatterFlow@gmail.com
